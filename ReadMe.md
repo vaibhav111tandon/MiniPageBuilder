@@ -27,3 +27,5 @@ It uses HTML5 native Drag and Drop api.
 - Drag and drop any number of elements in the editor.
 - Double Click on the dragged element to open the Configurations.
 - Double Click on the dragged element if you want to delete it(Delete button will popup in the modal).
+- Ctrl + S to delete the element if Update Modal is open
+- Delete button to delete the element if Update Modal is open

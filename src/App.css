@@ -12,14 +12,35 @@
 .App__dragzone{
   background-color: #2d2d2d;
   width: 20%;
+  cursor: grab;
+}
+
+.App__dragzone__header{
+  font-weight: bold;
+  font-size: 17px;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 15px;
 }
 
 .modal{
+  position: absolute;
+  top: 50%;
+  left:50%;
+  z-index: 999999;
+  width: 300px;
   background-color: white;
   width: 424px;
   height: auto;
   border-radius: 5px;
   transform: translate(-50%, -50%);
+}
+
+.modal__header{
+  font-weight: 600;
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 20px;
 }
 
 .modal__label{
