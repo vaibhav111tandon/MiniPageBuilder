@@ -2,6 +2,9 @@
 
 Mini Page Builder in react using Functional Components
 
+## Demo image
+https://github.com/vaibhav111tandon/MiniPageBuilder/blob/master/src/demo/example.png
+
 ## Install
 - Clone the repository.
 - After cloning, go to the minipagebuider folder
